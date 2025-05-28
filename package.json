@@ -1,0 +1,21 @@
+{
+  "name": "binmap",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westhecool/BinMap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/westhecool/BinMap/issues"
+  },
+  "homepage": "https://github.com/westhecool/BinMap#readme",
+  "description": ""
+}
