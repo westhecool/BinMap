@@ -1,5 +1,5 @@
 {
-  "name": "binmap",
+  "name": "binmapjs",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
@@ -17,5 +17,5 @@
     "url": "https://github.com/westhecool/BinMap/issues"
   },
   "homepage": "https://github.com/westhecool/BinMap#readme",
-  "description": ""
+  "description": "Binary format for storing JavaScript Objects and Arrays."
 }

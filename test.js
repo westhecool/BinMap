@@ -5,7 +5,7 @@ const obj = {
     b: 'Hello World',
     c: true,
     d: null,
-    e: undefined,
+    e: undefined, // undefined values will be omited
     f: Buffer.from('Hello World'),
     g: (new TextEncoder('utf-8')).encode('Hello World'),
     h: [1, 2, 3, 4, 5],
